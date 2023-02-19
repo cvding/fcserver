@@ -1,8 +1,9 @@
 # fcserver
 base on falcon framework， some useful tools
+post image, numpy and json file or parameters
 
 ## install
-`pip install git+https://github.com/fcserver.git`
+`pip install git+https://github.com/cvding/fcserver.git`
 
 ## example
 1. server(deploy model)
